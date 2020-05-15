@@ -6,7 +6,7 @@ Draw or erase selected pixels.
 
 # DEMO
 
-![demo](demo.webp)
+![demo](doc/demo.webp)
 
 # Requirement
 
